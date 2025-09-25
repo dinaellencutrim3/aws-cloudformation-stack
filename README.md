@@ -27,6 +27,12 @@ O objetivo é aplicar os conceitos vistos em aula e documentar o processo.
 ---
 
 ## 📂 Estrutura do Repositório
+aws-cloudformation-stack/
+│── README.md
+│── template.yaml
+└── /images
+├── stack-criada.png
+├── recursos.png
 
 
 ---
